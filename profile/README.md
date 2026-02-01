@@ -1,10 +1,8 @@
-Recently, you have given this
+# Global Integration and Innovation (GII)
 
-Global Integration and Innovation
+**Global Integration and Innovation (GII)** is an independent open-science and knowledge-integration initiative dedicated to unifying scientific, medical, philosophical, and consciousness-based frameworks under a rigorous, non-reductive structure.
 
-Global Integration and Innovation (GII) is an independent open-science and knowledge-integration initiative dedicated to unifying scientific, medical, philosophical, and consciousness-based frameworks under a rigorous, non-reductive structure.
-
-The organisation functions as a principal-investigator–led academic workspace, emphasizing conceptual clarity, reproducibility, authorship integrity, and long-term archival value.
+The organisation functions as a **principal-investigator–led academic workspace**, emphasizing conceptual clarity, reproducibility, authorship integrity, and long-term archival value.
 
 
 ---
