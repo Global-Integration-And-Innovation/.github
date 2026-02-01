@@ -48,7 +48,7 @@ External Links
 
 🌐 Website: https://www.sridoctor.com
 
-📦 Zenodo Community: https://zenodo.org/communities/syct
+📦 Zenodo Community: https://zenodo.org/communities/sycat-innovation/
 
 🆔 ORCID: https://orcid.org/0000-0001-5658-8016
 
